@@ -1,0 +1,6 @@
+#thsi is sample
+testCal:PaiXv.h PaiXv.c testPaiXv.c
+	gcc PaiXv.h PaiXv.c testPaiXv.c -o testPaiXv2
+
+clean:
+	rm testCali
